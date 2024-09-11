@@ -1,0 +1,1 @@
+This file contains the results of the scalability study described and presented in the paper manuscript titled: Making Tax Smart: Feasibility of Distributed Ledger Technol-ogy for building tax compliance functionality to Central Bank Digital Currency
